@@ -1,3 +1,7 @@
+DasarAlgoritmaDanPemrograman-BisDig UJIAN TENGAH SEMESTER ( IMELIA YAFISTA PUTRI, 2411031004 ) 2B BISNIS DIGITAL
+
+penjelasan dalam soal uts
+
 # DasarAlgoritmaDanPemrograman-BisDig
 soal no 1: 
 manfaat penggunaan fungsi : 
